@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|d:\\princerecent\\internaldotnetprojects\\usermanagementusingmvc\\models\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|solutionrelative:models\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|d:\\princerecent\\internaldotnetprojects\\usermanagementusingmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|d:\\princerecent\\internaldotnetprojects\\usermanagementusingmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|d:\\princerecent\\internaldotnetprojects\\usermanagementusingmvc\\models\\userdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|solutionrelative:models\\userdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|d:\\princerecent\\internaldotnetprojects\\usermanagementusingmvc\\controllers\\userlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|solutionrelative:controllers\\userlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|d:\\princerecent\\internaldotnetprojects\\usermanagementusingmvc\\views\\userlist\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|solutionrelative:views\\userlist\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|d:\\princerecent\\internaldotnetprojects\\usermanagementusingmvc\\views\\userlist\\addform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|solutionrelative:views\\userlist\\addform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|d:\\princerecent\\internaldotnetprojects\\usermanagementusingmvc\\views\\userlist\\updateform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2143BD62-994F-4048-9FB2-D992A7535AE0}|UserManagementUsingMVC.csproj|solutionrelative:views\\userlist\\updateform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-16T07:55:15.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T07:10:37.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddForm.cshtml",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Views\\UserList\\AddForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserList\\AddForm.cshtml",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Views\\UserList\\AddForm.cshtml",
+              "RelativeToolTip": "Views\\UserList\\AddForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-15T11:24:13.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDataModel.cs",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Models\\UserDataModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserDataModel.cs",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Models\\UserDataModel.cs",
+              "RelativeToolTip": "Models\\UserDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T09:40:10.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserListController.cs",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Controllers\\UserListController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserListController.cs",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Controllers\\UserListController.cs",
+              "RelativeToolTip": "Controllers\\UserListController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T09:39:48.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Views\\UserList\\UserList.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserList\\UserList.cshtml",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Views\\UserList\\UserList.cshtml",
+              "RelativeToolTip": "Views\\UserList\\UserList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-15T09:39:32.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateForm.cshtml",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Views\\UserList\\UpdateForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserList\\UpdateForm.cshtml",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Views\\UserList\\UpdateForm.cshtml",
+              "RelativeToolTip": "Views\\UserList\\UpdateForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-15T09:39:31.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Models\\UserList.cs",
+              "RelativeDocumentMoniker": "Models\\UserList.cs",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\UserManagementUsingMVC\\Models\\UserList.cs",
+              "RelativeToolTip": "Models\\UserList.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T08:05:53.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

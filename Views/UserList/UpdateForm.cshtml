@@ -1,0 +1,31 @@
+﻿@model UserManagementUsingMVC.Models.UserDataModel
+
+<div>
+    <h3><b class="d-flex justify-content-center">UPDATE FORM</b></h3>
+</div>
+
+@using (Html.BeginForm("updateAction", "UserList", new { id = @ViewBag.UpdateId }, FormMethod.Post))
+{
+    <div class="d-flex justify-content-center">
+        <div class="width">
+            <div class="">
+                @Html.Label("Name", "Name", new { @class = "fw-bold" })
+                @Html.TextBoxFor(m => m.Name, "", new { @class = "form-control", placeholder = "Name", type = "text" })
+            </div>
+            <div class="mt-3">
+                @Html.Label("Description", "Description", new { @class = "fw-bold" })
+                @Html.TextBoxFor(m => m.Description, "", new { @class = "form-control", placeholder = "Description", type = "text" })
+            </div>
+            <div class="mt-3">
+                @Html.Label("Email", "Email", new { @class = "fw-bold" })
+                @Html.TextBoxFor(m => m.Email, "", new { @class = "form-control", placeholder = "Email", type = "email" })
+            </div>
+        </div>
+    </div>
+    <div class="d-flex justify-content-center mt-3">
+        <button type="submit" value="Submit Form" class="btn btn-success ">Update Submit</button>
+    </div>
+
+
+}
+

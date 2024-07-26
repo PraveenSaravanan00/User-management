@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "List Page";
+
+}
+
+<div class="">
+    <h1 class="display-4 text-center">Users List</h1>
+    <a class="nav-link text-dark text-decoration-underline addFormLink" asp-area="" asp-controller="UserList" asp-action="AddForm">Add new user</a>
+    <div class="d-flex justify-content-center pt-3">
+        <table class="table table-hover w-80 text-center border">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>NAME</th>
+                    <th>DESCRIPTION</th>
+                    <th>EMAIL</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < ViewBag.table.Tables[0].Rows.Count; i++)
+                {
+                    <tr>
+                        <td>@ViewBag.table.Tables[0].Rows[i]["id"]</td>
+                        <td>@ViewBag.table.Tables[0].Rows[i]["Name"]</td>
+                        <td>@ViewBag.table.Tables[0].Rows[i]["Description"]</td>
+                        <td>@ViewBag.table.Tables[0].Rows[i]["Email"]</td>
+                        <td colspan="2">
+                            <button class="btn btn-success" onclick="location.href='@Url.Action("update", "UserList", new { id = @ViewBag.table.Tables[0].Rows[i]["id"], name = @ViewBag.table.Tables[0].Rows[i]["Name"], Description = @ViewBag.table.Tables[0].Rows[i]["Description"], email = @ViewBag.table.Tables[0].Rows[i]["Email"] })'">Edit</button>
+                            <button class="btn btn-danger" onclick="location.href='@Url.Action("delete", "UserList", new { parameter1 = @ViewBag.table.Tables[0].Rows[i]["id"] })'">Delete</button>
+                        </td>
+                       
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
